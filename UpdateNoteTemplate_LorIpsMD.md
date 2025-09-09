@@ -83,7 +83,7 @@ Vestibulum finibus ante vitae ligula suscipit viverra. Mauris [WiseTech Academy]
 >
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
-> [!ACTION]
+> [!TIP]
 > **Action Box with Bullet Points**  
 > - Bullet 1  
 >   - Bullet 1.2  
@@ -91,7 +91,7 @@ Vestibulum finibus ante vitae ligula suscipit viverra. Mauris [WiseTech Academy]
 >
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
-> [!CALLOUT]
+> [!IMPORTANT]
 > **Call Out Box with Bullet Points**  
 > 1. Bullet 1  
 >    1. Bullet 1.2  
@@ -99,7 +99,15 @@ Vestibulum finibus ante vitae ligula suscipit viverra. Mauris [WiseTech Academy]
 >
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
-> [!CALLOUT]
+> [!CAUTION]
+> **Call Out Box with Bullet Points**  
+> 1. Bullet 1  
+>    1. Bullet 1.2  
+>    1. Bullet 1.3  
+>
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+
+> [!WARNING]
 **Recommended Learning**
 > - [Workflow Templates Reference Guide](https://wisetechacademy.com/search?quickstart=562a656d-c05c-45e3-8a44-458e88936dab)
 > - [How are Events automatically logged?](https://wisetechacademy.com/search?quickstart=02ed4920-5570-4fc7-bf4d-e2a1e4465442)
