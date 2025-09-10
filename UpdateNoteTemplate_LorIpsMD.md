@@ -27,15 +27,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Vestibulum dapibus** 
 ---
 ### Table of Contents
 
-[Description](###Description)
+[Description](#description)
 
-[Description Sub-Heading L2](####DescriptionSub-HeadingL2)
+[Description Sub-Heading L2](#description-sub-heading-l2)
 
-[Description Sub-Heading L3](#####DescriptionSub-HeadingL3)
+[Description Sub-Heading L3](#description-sub-heading-l3)
 
-[Description Table Example](####DescriptionTableExample)
+[Description Table Example](#description-table-example)
 
-[Description Text Boxes](####DescriptionTextBoxes)
+[Description Text Boxes](#description-text-boxes)
 
 ---
 
@@ -108,7 +108,7 @@ Vestibulum finibus ante vitae ligula suscipit viverra. Mauris [WiseTech Academy]
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
 > [!WARNING]
-**Recommended Learning**
+> - **Recommended Learning**
 > - [Workflow Templates Reference Guide](https://wisetechacademy.com/search?quickstart=562a656d-c05c-45e3-8a44-458e88936dab)
 > - [How are Events automatically logged?](https://wisetechacademy.com/search?quickstart=02ed4920-5570-4fc7-bf4d-e2a1e4465442)
 > - [Universal Event XML from Task Events](https://wisetechacademy.com/search?quickstart=7e8a6e8f-7ab8-4173-b2fc-374e68a209a6)
