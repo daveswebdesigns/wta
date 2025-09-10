@@ -61,6 +61,7 @@ Example: `Go to Forwarding > Shipment`
 ##### Description Sub-Heading L3
 Vestibulum finibus ante vitae ligula suscipit viverra. Mauris [WiseTech Academy](https://academy.wisetechglobal.com), id venenatis justo bibendum vel. Nam sed ex arcu. 
 ![Update flowchart](images/Screenshot_Test.png)
+
 <span class="small">This caption will be small</span> <!-- requires HTML tag in MD and CSS -->
 
 #### Description Table Example
